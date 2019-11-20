@@ -1,14 +1,14 @@
 {
-  "name": "backdocker",
+  "name": "backnode",
   "version": "1.0.0",
-  "description": "docker",
-  "main": "index.js",
+  "description": "Demo para probrar Docker ",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.4.0"
+    "express": "^4.17.1"
   }
 }
